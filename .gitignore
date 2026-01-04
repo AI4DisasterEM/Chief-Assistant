@@ -12,3 +12,4 @@ venv/
 *secrets*
 *.pem
 *.key
+credentials.json
